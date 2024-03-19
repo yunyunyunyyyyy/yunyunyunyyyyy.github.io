@@ -10,5 +10,12 @@ p.redred{
     color:#AAFFEE;
 }
 body{
-    font-family: 'Noto Sans TC', sans-serif ;
+    font-family: 'Noto Sans TC', sans-serif；
+}
+.expedu_icon{
+    color:blue
+}
+.expedu_icon:hover{
+    background-color: blue;
+    color: white;
 }
