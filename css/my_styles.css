@@ -24,6 +24,7 @@ p.redred{
 }
 body{
     font-family: 'Noto Sans TC', sans-serif；
+
 }
 .expedu_icon{
     color:blue
@@ -51,4 +52,9 @@ table.yyyyytable td{
 table.yyyyytable tr:nth-child(even){
     background-color: blue;
     color:beige
+}
+
+table.yyyyytable tr:nth-child(odd){
+    background-color: darkgreen;
+    color:green；
 }
