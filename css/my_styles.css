@@ -32,3 +32,23 @@ body{
     background-color: blue;
     color: white;
 }
+
+table.yyyyytable{
+    width: 80%;
+    background-color: aqua;
+}
+
+table.yyyyytable th{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+}
+
+table.yyyyytable td{
+    text-align: center;
+}
+
+table.yyyyytable tr:nth-child(even){
+    background-color: blue;
+    color:beige
+}
