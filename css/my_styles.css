@@ -7,23 +7,27 @@
 }
 
 
-p.redred{
-    background-color:	rgb(64, 168, 168,);
+div.redred{
+    padding: 20px;
+    background-color:	rgb(168, 80, 64);
     color: black;
-    border: 20px solid;
-    border-color: blue;
+    border: 10px solid orange;
+    border-radius: 5px;
+    background-image: url(../assets/img/bg-sea.jpg);
     font-size: 40px;
     text-align: center;
     font-family: 'Noto Serif TC', sans-serif ;
     letter-spacing:  0.8px;
     line-height:  1.5em;
+    margin:50px auto;
+    width:80%
 }
 
 .blueblue{
     color:#AAFFEE;
 }
 body{
-    font-family: 'Noto Sans TC', sans-serif；
+    font-family: 'Noto Sans TC', sans-serif;
 
 }
 .expedu_icon{
@@ -57,4 +61,7 @@ table.yyyyytable tr:nth-child(even){
 table.yyyyytable tr:nth-child(odd){
     background-color: darkgreen;
     color:green；
+}
+.w-85{
+    width: 85%;
 }
