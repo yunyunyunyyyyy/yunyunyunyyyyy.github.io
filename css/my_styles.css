@@ -60,8 +60,18 @@ table.yyyyytable tr:nth-child(even){
 
 table.yyyyytable tr:nth-child(odd){
     background-color: darkgreen;
-    color:green；
+    color:green;
 }
 .w-85{
     width: 85%;
+}
+.over{
+    background-color: black;
+    color:white;
+    padding: 10px   20px;
+    border-radius: 15px;
+    margin: 30px    auto;
+    height: 500px;
+    width: 800px;
+    overflow: scroll;
 }
