@@ -24,12 +24,14 @@ div.redred{
 }
 
 .blueblue{
-    color:#AAFFEE;
+    color:#120fd3;
 }
-body{
-    font-family: 'Noto Sans TC', sans-serif;
-
-}
+.noto-serif-tc-regular {
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 .expedu_icon{
     color:blue
 }
